@@ -6,29 +6,36 @@ import QuoteCard from './QuoteCard';
 const quotes = [
   {
     quote:
-      "Facts are meaningless. You could use facts to prove anything that's even remotely true.",
-    character: "Homer Simpson",
+   "Talk is cheap. Show me the code.",
+    character: "Jacob Johnson",
     image:
-      "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FHomerSimpson.png?1497567511939"
+    "https://randomuser.me/api/portraits/men/24.jpg"
   },
   {
-    quote: "Nothing you say can upset us. We're the MTV generation.",
-    character: "Bart Simpson",
+    quote: "when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.",
+    character: "Clara Graham",
     image:
-      "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FBartSimpson.png?1497567511638"
+    "https://randomuser.me/api/portraits/women/57.jpg"
   },
   {
-    quote: "That's where I saw the leprechaun...He told me to burn things.",
-    character: "Ralph Wiggum",
+    quote: "Programs must be written for people to read, and only incidentally for machines to execute.",
+    character: "Sebastian Richards",
     image:
-      "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FRalphWiggum.png?1497567511523"
+    "https://randomuser.me/api/portraits/men/33.jpg"
   },
   {
     quote:
-      "Hello, Simpson. I'm riding the bus today because Mother hid my car keys to punish me for talking to a woman on the phone. She was right to do it.",
-    character: "Principal Skinner",
+      "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
+    character: "Berta Little",
     image:
-      "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FSeymourSkinner.png?1497567511460"
+      "https://randomuser.me/api/portraits/women/16.jpg"
+  },
+  {
+    quote:
+      "Is it possible that software is not like anything else, that it is meant to be discarded: that the whole point is to always see it as a soap bubble?",
+    character: "Carla Szabo",
+    image:
+      "https://randomuser.me/api/portraits/women/79.jpg"
   }
 ];
 

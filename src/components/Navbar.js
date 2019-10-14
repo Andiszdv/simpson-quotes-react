@@ -4,7 +4,7 @@ import './Navbar.css';
 function Navbar() {
   return (
     <nav className="Navbar">
-      <a href="https://en.wikipedia.org/wiki/The_Simpsons">Simpons Quotes</a>
+      <a href="https://www.goodreads.com/quotes/tag/programming">Programmers Quotes</a>
     </nav>
   );
 }
